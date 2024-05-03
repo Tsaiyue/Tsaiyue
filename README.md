@@ -2,8 +2,9 @@
 - 🌱 My name is Cai Yue. I am passionate about AIGC and AI Infra.
 - 💬 Feel free to reach me at `tsaiyue01@gmail.com` for discussions.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsaiyue)](https://github.com/anuraghazra/github-readme-stats)
 <!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsaiyue)](https://github.com/anuraghazra/github-readme-stats)
+
 **Tsaiyue/Tsaiyue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
