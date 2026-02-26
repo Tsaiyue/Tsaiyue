@@ -1,6 +1,7 @@
 ### Hey Guys! 👋
 - 🌱 My name is Cai Yue. I am passionate about AIGC and AI Infra.
 - 💬 Feel free to reach me at `tsaiyue01@gmail.com` for discussions.
+- [updated] Guess what, now I work 4 the Robotics sh*t, haha.🤖
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsaiyue)](https://github.com/anuraghazra/github-readme-stats)
